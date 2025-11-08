@@ -5,7 +5,11 @@
 [![React](https://img.shields.io/badge/react-18+-blue.svg)](https://reactjs.org/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
 
+![OpenVehicleControl Banner](asset/OpenVehicleControl.jpg)
+
 > **OpenVehicleControl** is an open-source platform for comprehensive vehicle fleet management, real-time telemetry, and connected mobility infrastructure. Born from the need to democratize vehicle control technology, this project provides a complete ecosystem for monitoring, commanding, and analyzing electric and connected vehicles.
+
+![OpenVehicleControl Architecture](asset/OpenVehicleControl_01.jpeg)
 
 ## 🌟 Key Features
 
